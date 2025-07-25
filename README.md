@@ -4,6 +4,8 @@ Welcome to **Treasure Island** – a fun, beginner-friendly, text-based adventur
 Your mission is simple: make the right choices and find the hidden treasure 💰.
 
 ---
+## 📷 Screenshot
+![Treasure Island CLI](Treasure_Island.png)
 
 ## 🎮 How to Play
 
@@ -20,3 +22,5 @@ You arrive at the island. One red, one yellow and one blue door. Which colour do
 -> blue
 
 🎉 You found the treasure! You Win!
+
+
